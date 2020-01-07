@@ -1,5 +1,5 @@
-TypeScript React Table Demo
-=================================
+TypeScript React Table with Material-UI Demo
+============================================
 
 ```
 npm install
